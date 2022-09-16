@@ -1,1 +1,1 @@
-# covid_detect
+# covid_detect by Machine Learning 
